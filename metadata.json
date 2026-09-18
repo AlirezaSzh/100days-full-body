@@ -2,5 +2,7 @@
   "name": "داشبورد تمرین",
   "description": "داشبورد کامل تمرین ۵ روزه بر پایه متد فول‌بادی با فونت وزیرمتن، تایمر هوشمند بین ست‌ها، تقویم شمسی از ۲۸ شهریور ۱۴۰۵، قابلیت جابجایی و انتقال روزها و خروجی کامل داده‌ها",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
